@@ -4,6 +4,7 @@ import math
 
 x = math.pow(2,2)
 print(x)
+# the answer is 4
 
 y = time.process_time()
 print(y)
@@ -11,4 +12,4 @@ print(y)
 
 z = time.perf_counter()
 print(z) 
-# the time c
+# the time presented is extremely precise as it takes 5846728.565011691 
